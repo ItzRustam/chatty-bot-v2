@@ -4,7 +4,11 @@ Chatty Bot with Local Ollama and Hugging Face Support
 ---
 # How to Use?
 
-##Install Ollama
+## Install Modules
+```bash
+ pip install -r requirements.txt
+```
+## Install Ollama
 
 *For Linux*
 ```bash
